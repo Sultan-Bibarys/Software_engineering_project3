@@ -30,7 +30,7 @@ hours used for various sizes of projects.
 have troubles getting an overview of who will be available in the period
 where the project is carried out. They expect the system to give them an
 overview of this too.
-#Specification
+* Specification
   OnTimeSoftware has around 80 developers and around 40 open
 projects with around 800 planned or running activities. Many projects run
 for just a few months, but some run for a couple of years. Most developers
