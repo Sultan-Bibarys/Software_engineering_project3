@@ -13,7 +13,7 @@ this way: The developer responsible for a given activity records every day
 how many hours he has worked on the activity, and every weekend he gives
 an estimate of the remaining number of hours. Project management now
 computes an estimate of the total number of hours for the activity:
-  total expected = hours spent + hours remaining
+  *total expected = hours spent + hours remaining*
 In a straightforward activity this figure remains constant from week to
 week, and when no hours remain, it is finished. If the figure starts
 increasing, something is wrong, and help is most likely needed. Experience
@@ -30,7 +30,7 @@ hours used for various sizes of projects.
 have troubles getting an overview of who will be available in the period
 where the project is carried out. They expect the system to give them an
 overview of this too.
-* Specification
+# Specification
   OnTimeSoftware has around 80 developers and around 40 open
 projects with around 800 planned or running activities. Many projects run
 for just a few months, but some run for a couple of years. Most developers
